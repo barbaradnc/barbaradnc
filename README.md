@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Atualmente cursando a Formação em Tecnologia na escola DNC<br>🌱 Estudos focando em Full-Stack<br>⚡ Gosto bastante de jogar CS-GO
 
 
